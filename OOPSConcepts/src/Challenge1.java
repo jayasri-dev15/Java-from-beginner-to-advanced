@@ -32,7 +32,7 @@ public class Challenge1
 	
 	r.length=2;
 	
-	r.breadth=4;
+	r.breadth=9;
 	
 	System.out.println("The area of the rectangle is "+r.areaOfRectangle());
 	
